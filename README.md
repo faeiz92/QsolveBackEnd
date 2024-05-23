@@ -2,7 +2,7 @@
 1. Microsoft Visual Studio link download https://visualstudio.microsoft.com/downloads/
 2. Database Sqlite, can choose want download for portable or the install one, both can use. link download :  https://sqlitebrowser.org/dl/
 3. Then create path folder like this 'C:\sqlite', suggest to create this folder in C drive or desktop for avoid conflict
-4. After that must setup path 'C:\sqlite' in your local ,achine environemnt (read the below instruction) 
+4. After that must setup path 'C:\sqlite' in your local machine environemnt (read the below instruction) 
 5. After that, setup your path for sqlite in the 'Edit Environment Variables For Your Account' (just can type in search option window). then click enter, click button Environment Variable
   -under System variables click on the 'Path' variable
   -then click button Edit
