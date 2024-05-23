@@ -1,0 +1,6 @@
+@QsolveBE_HostAddress = http://localhost:5058
+
+GET {{QsolveBE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

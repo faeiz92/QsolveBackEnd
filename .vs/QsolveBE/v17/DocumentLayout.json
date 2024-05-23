@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QsolveBE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{621FD0F6-F13A-48A3-A44E-50200AF784FA}|QsolveBE\\QsolveBE.csproj|d:\\qsolvebe\\qsolvebe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{621FD0F6-F13A-48A3-A44E-50200AF784FA}|QsolveBE\\QsolveBE.csproj|solutionrelative:qsolvebe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4A92AC-024D-4428-AF77-D34B20CBAA50}|Repository\\Repository.csproj|d:\\qsolvebe\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4A92AC-024D-4428-AF77-D34B20CBAA50}|Repository\\Repository.csproj|solutionrelative:repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD16FD9-1CB5-412A-8F30-EF70D3B5B5CD}|Entities\\Entities.csproj|d:\\qsolvebe\\entities\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD16FD9-1CB5-412A-8F30-EF70D3B5B5CD}|Entities\\Entities.csproj|solutionrelative:entities\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5EE036-E806-4ABE-8747-F4094130C466}|Contract\\Contract.csproj|d:\\qsolvebe\\contract\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5EE036-E806-4ABE-8747-F4094130C466}|Contract\\Contract.csproj|solutionrelative:contract\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{621FD0F6-F13A-48A3-A44E-50200AF784FA}|QsolveBE\\QsolveBE.csproj|d:\\qsolvebe\\qsolvebe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{621FD0F6-F13A-48A3-A44E-50200AF784FA}|QsolveBE\\QsolveBE.csproj|solutionrelative:qsolvebe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD16FD9-1CB5-412A-8F30-EF70D3B5B5CD}|Entities\\Entities.csproj|d:\\qsolvebe\\entities\\migrations\\20240520112315_qsolve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD16FD9-1CB5-412A-8F30-EF70D3B5B5CD}|Entities\\Entities.csproj|solutionrelative:entities\\migrations\\20240520112315_qsolve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 191,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:32:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:33:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QsolveBE\\QsolveBE\\Program.cs",
+              "RelativeDocumentMoniker": "QsolveBE\\Program.cs",
+              "ToolTip": "D:\\QsolveBE\\QsolveBE\\Program.cs",
+              "RelativeToolTip": "QsolveBE\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAADNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:23:53.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoryContext.cs",
+              "DocumentMoniker": "D:\\QsolveBE\\Entities\\RepositoryContext.cs",
+              "RelativeDocumentMoniker": "Entities\\RepositoryContext.cs",
+              "ToolTip": "D:\\QsolveBE\\Entities\\RepositoryContext.cs",
+              "RelativeToolTip": "Entities\\RepositoryContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA0wBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:03:00.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\QsolveBE\\QsolveBE\\appsettings.json",
+              "RelativeDocumentMoniker": "QsolveBE\\appsettings.json",
+              "ToolTip": "D:\\QsolveBE\\QsolveBE\\appsettings.json",
+              "RelativeToolTip": "QsolveBE\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T07:53:35.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "D:\\QsolveBE\\Contract\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Contract\\IRepositoryBase.cs",
+              "ToolTip": "D:\\QsolveBE\\Contract\\IRepositoryBase.cs",
+              "RelativeToolTip": "Contract\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:49:46.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "D:\\QsolveBE\\Repository\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repository\\RepositoryBase.cs",
+              "ToolTip": "D:\\QsolveBE\\Repository\\RepositoryBase.cs",
+              "RelativeToolTip": "Repository\\RepositoryBase.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAwwCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:50:01.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240520112315_QSolve.cs",
+              "DocumentMoniker": "D:\\QsolveBE\\Entities\\Migrations\\20240520112315_QSolve.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\20240520112315_QSolve.cs",
+              "ToolTip": "D:\\QsolveBE\\Entities\\Migrations\\20240520112315_QSolve.cs",
+              "RelativeToolTip": "Entities\\Migrations\\20240520112315_QSolve.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:23:15.984Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
